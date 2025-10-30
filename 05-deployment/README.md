@@ -9,12 +9,22 @@ We recommend using python 3.12 or 3.13 in this homework.
 
 In this homework, we're going to continue working with the lead scoring dataset. You don't need the dataset: we will provide the model for you.
 
+# Steps
+
+Install fast api and uvicorn
+```bash
+pip install fastapi uvicorn
+```
+Creation of a fast api application (ping.py)
+
 
 ## Question 1
 
 * Install `uv`
 * What's the version of uv you installed?
 * Use `--version` to find out
+
+[x] uv 0.9.5
 
 
 ## Initialize an empty uv project

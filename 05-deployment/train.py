@@ -4,11 +4,6 @@ This code does two things
 * Make predictions
 """
 
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import pandas as pd
 import numpy as np
@@ -85,6 +80,7 @@ df =fill_null_values(df=df, cat_fill_value='NA', num_fill_value=0.0)
 pipeline = train_model(df)
 save_model('model.bin',pipeline)
 
+print('Model saved to model.bin')
  
 
 
