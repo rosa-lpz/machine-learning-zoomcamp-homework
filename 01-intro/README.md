@@ -1,4 +1,4 @@
-# Homework 01 - Car Fuel Efficinency
+# Homework 01 - Car Fuel Efficiency
 
 ## Set up the environment
 
