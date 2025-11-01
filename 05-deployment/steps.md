@@ -51,6 +51,7 @@ Install fast api and uvicorn
 ```bash
 pip install fastapi uvicorn
 ```
+
 ### Creation of a fast api application (ping.py)
 
 ```python
