@@ -75,10 +75,10 @@ Now let's experiment with the `n_estimators` parameter
 After which value of `n_estimators` does RMSE stop improving?
 Consider 3 decimal places for calculating the answer.
 
-- 10
-- 25
-- 80
-- 200
+- [ ] 10
+- [ ] 25
+- [ ] 80
+- [x] 200
 
 If it doesn't stop improving, use the latest iteration number in
 your answer.
