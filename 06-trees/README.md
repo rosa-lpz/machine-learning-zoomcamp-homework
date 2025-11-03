@@ -40,11 +40,10 @@ Let's train a decision tree regressor to predict the `fuel_efficiency_mpg` varia
 
 Which feature is used for splitting the data?
 
-
-* `'vehicle_weight'`
-* `'model_year'`
-* `'origin'`
-* `'fuel_type'`
+* [x] `'vehicle_weight'`
+* [ ]`'model_year'`
+* [ ]`'origin'`
+* [ ]`'fuel_type'`
 
 
 ## Question 2
@@ -58,10 +57,10 @@ Train a random forest regressor with these parameters:
 
 What's the RMSE of this model on the validation data?
 
-* 0.045
-* 0.45
-* 4.5
-* 45.0
+* [ ] 0.045
+* [x] 0.45
+* [ ] 4.5
+* [ ] 45.0
 
 
 ## Question 3
