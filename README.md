@@ -9,6 +9,10 @@ Repository for Homeworks of [Machine Learning Zoomcamp](https://github.com/rosa-
 
 
 
+<img src="homework.png" alt="homework" style="zoom:67%;" />
+
+
+
 ## About DataTalks.Club
 
 <p align="center">
