@@ -97,10 +97,10 @@ Let's select the best `max_depth`:
 
 What's the best `max_depth`, using the mean RMSE?
 
-* 10
-* 15
-* 20
-* 25
+* [x] 10
+* [ ] 15
+* [ ] 20
+* [ ] 25
 
 
 # Question 5
@@ -127,10 +127,10 @@ For this homework question, we'll find the most important feature:
 
 What's the most important feature (among these 4)? 
 
-* `vehicle_weight`
-*	`horsepower`
-* `acceleration`
-* `engine_displacement`	
+* [x] `vehicle_weight`
+* [ ] `horsepower`
+* [ ] `acceleration`
+* [ ] `engine_displacement`	
 
 
 ## Question 6
