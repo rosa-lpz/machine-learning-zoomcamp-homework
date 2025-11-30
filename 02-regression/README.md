@@ -1,4 +1,4 @@
-## Homework 02
+## Regression - Homework 02
 
 > Note: sometimes your answer doesn't match one of 
 > the options exactly. That's fine. 

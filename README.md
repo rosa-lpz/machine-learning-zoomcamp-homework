@@ -109,6 +109,18 @@ Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
 - Load balancing
   
 
+
+
+
+
+![supervised-unsupervised-reinforcement](supervised-unsupervised-reinforcement.png)
+
+
+
+
+
+
+
 ## About DataTalks.Club
 
 <p align="center">
